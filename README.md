@@ -18,7 +18,7 @@ Projeto exclusivo, promovido pelo Universo DEV para ensino de tecnologias WEB. <
 <br>
 
 <p align="center">
-  <img alt="Flowbnb" src="./assets/preview.png" width="50%">
+  <img alt="Flowbnb" src="./assets/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
