@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+}
+
+.topo {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #eeeeee;
+}
+
+.topo .container {
+    width: 90%;
+    display: flex;
+    margin: auto;
+}
+
+.topo .container .busca {
+    display: flex;
+    margin: auto;
+    align-items: center;
+    width: 400px;
+    height: 40px;
+    border: 1px solid #eeeeee;
+    border-radius: 30px;
+    padding: 5px;
+}
+
+.topo .container .busca textbox {
+    width: 90%;
+    height: 70%;
+}
+
+.topo .container .logo {
+    width: 150px;
+}
+
+.topo .container .perfil {
+    display: flex;
+    width: 80px;
+    border: 1px solid #eeeeee;
+    border-radius: 30px;
+    padding: 5px;
+}
+
+.topo .container .perfil .menu {
+    height: 20px;
+    margin: auto
+}
+
+.topo .container .perfil .imagem {
+    height: 40px;
+}
