@@ -52,3 +52,31 @@ body {
 .topo .container .perfil .imagem {
     height: 40px;
 }
+
+.barraTipos {
+    margin: auto;
+    width: 94%;
+    height: 100px;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.barraTipos .tipo {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    max-width: 200px;
+    text-align: center;
+    filter: contrast(calc(13 / 44));
+}
+
+.barraTipos .tipo:hover{
+    cursor: pointer;
+    border-bottom: 2px solid #eeeeee;
+}
+
+.barraTipos .tipo .icone {
+    height: 24px;
+    margin: auto;
+}
