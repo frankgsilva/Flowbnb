@@ -80,3 +80,48 @@ body {
     height: 24px;
     margin: auto;
 }
+
+.lugares {
+    width: 90%;
+    margin: auto;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.lugares .imagem {
+    width: 271px;
+    height: 261px;
+    border-radius: 15px;
+}
+
+.lugares .local {
+    font-weight: 800;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.lugares .tipo {
+    color: #717171;
+    margin-top: 5px;
+}
+
+.lugares .periodo {
+    color: #717171;
+}
+
+.lugares .preco {
+    margin-top: 5px;
+}
+
+.rodape {
+    color: #717171;
+    border-top: 1px solid #eeeeee;
+    text-align: center;
+    height: 20px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 20px;
+    width: 90%;
+}
