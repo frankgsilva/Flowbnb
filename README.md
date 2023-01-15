@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O FlowBnb é um clone do mundialmente conhecido Airbnb o projeto foi desenvolvido nos modulos iniciais da comunidade Universo DEV.
 
-- [Acesse o projeto finalizado, online](https://frankgsilva.github.io/Flowbnb)
+- [Acesse o projeto finalizado, online](https://frankgsilva.github.io/flowbnb)
 
 ## :memo: Licença
 
