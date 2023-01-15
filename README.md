@@ -36,4 +36,4 @@ O FlowBnb é um clone do mundialmente conhecido Airbnb o projeto foi desenvolvid
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT.
+Esse projeto está sob a licença MIT
