@@ -93,6 +93,7 @@ body {
     margin-top: 30px;
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: space-between;
 }
 
@@ -121,6 +122,11 @@ body {
     margin-top: 5px;
 }
 
+.lugares .lugar {
+    display: flex;
+    margin: 10px auto;
+}
+
 .rodape {
     color: #717171;
     border-top: 1px solid #eeeeee;
@@ -130,4 +136,23 @@ body {
     margin: auto;
     margin-top: 20px;
     width: 90%;
+}
+
+@media (max-width: 600px) {
+    .logo {
+        display: none;
+    }
+
+    .topo .container .perfil {
+        display: none;
+    }
+
+    .barra {
+        overflow-x: scroll;
+    }
+
+    .barraTipos {
+        min-width: 800px;
+    }
+
 }
